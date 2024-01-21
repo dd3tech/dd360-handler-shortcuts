@@ -12,9 +12,11 @@ This extension let you right click a lambda delcaration on Yaml file, then open 
 
 ##### 2. Automatically opens both Lambda & Cloudwatch:
 
+<p align="left">  
 <img width="250" alt="Aws console Lambda dashboard" src="media/lambda_aws.png">
 
 <img width="213" alt="Aws console Cloudwatch dashboard" src="media/cloudwatch_aws.png">
+</p>
 
 #### Considerations
 
