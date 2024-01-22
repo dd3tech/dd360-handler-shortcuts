@@ -8,14 +8,14 @@ This extension let you right click a lambda delcaration on Yaml file, then open 
 
 ##### 1. Right click on lambda name:
 
-<img width="350" alt="Right click on lambda" src="media/right_click.png">
+<img width="350" alt="Right click on lambda" src="https://github.com/dd3tech/dd360-handler-shortcuts/blob/main/media/right_click.png?raw=true">
 
 ##### 2. Automatically opens both Lambda & Cloudwatch:
 
 <p align="left">  
-<img width="250" alt="Aws console Lambda dashboard" src="media/lambda_aws.png">
+<img width="250" alt="Aws console Lambda dashboard" src="https://raw.githubusercontent.com/dd3tech/dd360-handler-shortcuts/main/media/lambda_aws.png">
 
-<img width="213" alt="Aws console Cloudwatch dashboard" src="media/cloudwatch_aws.png">
+<img width="213" alt="Aws console Cloudwatch dashboard" src="https://github.com/dd3tech/dd360-handler-shortcuts/blob/main/media/cloudwatch_aws.png?raw=true">
 </p>
 
 #### Considerations
